@@ -1,0 +1,6 @@
+logzero==1.5.*
+adbutils>=0.6.2,<1.0
+tornado
+requests
+apkutils2
+uiautomator2>=2.5.9
